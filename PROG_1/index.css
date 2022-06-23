@@ -1,0 +1,30 @@
+.bg_image{
+  background-image: url(https://www.coreldraw.com/static/cdgs/images/free-trials/2022/box-ui-cdgs2022.jpg);
+  width: 100vw;
+  height: 100vh;
+  background-size: cover;
+
+}
+.hd_color{
+  color: brown;
+  text-align: center;
+}
+.img_size{
+  width: 200px;
+  height: 100px;
+}
+.text_margin{
+  margin: 10px;
+}
+.container_color{
+  background-color: rgb(238, 20, 20);
+  width: 800px;
+  border-radius: 80px;
+  padding: 16px;
+  margin: 30px;
+  border-color: blue;
+  border-style: solid;
+  border-width: 30;
+  borde
+
+}
