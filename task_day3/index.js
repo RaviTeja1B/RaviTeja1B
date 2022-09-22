@@ -356,7 +356,7 @@ let resume_1=
         college:"VRSEC",
         university:"JNTTUK",
         branch:"MECHANICAL",
-        year_of_passing:2016
+        year_of_passing:2020
     }}]
 },
 {
