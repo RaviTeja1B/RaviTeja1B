@@ -1,0 +1,54 @@
+.background_1 {
+    background-color: rgb(31, 29, 29);
+
+    }
+.bulb_image{
+    width: 150px;
+}
+ .cat_image{
+    width: 300px;
+  
+ }
+
+ .switch_board {
+    width: 294px;
+    height: 139px;
+    background-color: #7b8794;
+    border-radius: 12px;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    padding-left: 16px;
+    padding-right: 16px;
+    margin: 16px;
+  }
+  .switch_status {
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 24px;
+    color: #ffffff;
+    margin-bottom: 24px;
+  }
+   
+  .on_switch {
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 24px;
+    color: #ffffff;
+    border-radius: 8px;
+    width: 99px;
+    height: 44px;
+    margin-left: 16px;
+    background-color: #cbd2d9;
+  }
+   
+  .off_switch {
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 24px;
+    color: #ffffff;
+    border-radius: 8px;
+    width: 99px;
+    height: 44px;
+    background-color: #e12d39;
+  }
+   
